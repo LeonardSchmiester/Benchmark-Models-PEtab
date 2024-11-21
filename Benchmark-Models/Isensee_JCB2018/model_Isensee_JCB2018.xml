@@ -158,10 +158,10 @@
       <parameter metaid="kp_AC"                   id="kp_AC"                   value="0"/>
       <parameter metaid="kdp_AC"                  id="kdp_AC"                  value="0"/>
       <!-- H3: incomplete import -->
-      <parameter metaid="xi_i_Rp8_Br_cAMPS_pAB"   id="xi_i_Rp8_Br_cAMPS_pAB"   value="0"/>
-      <parameter metaid="xi_i_Rp8_pCPT_cAMPS_pAB" id="xi_i_Rp8_pCPT_cAMPS_pAB" value="0"/>
-      <parameter metaid="xi_i_Rp_cAMPS_pAB"       id="xi_i_Rp_cAMPS_pAB"       value="0"/>
-      <parameter metaid="xi_i_Sp8_Br_cAMPS_AM"    id="xi_i_Sp8_Br_cAMPS_AM"    value="0"/>
+      <parameter metaid="xi_i_Rp8_Br_cAMPS_pAB"   id="xi_i_Rp8_Br_cAMPS_pAB"   value="1"/>
+      <parameter metaid="xi_i_Rp8_pCPT_cAMPS_pAB" id="xi_i_Rp8_pCPT_cAMPS_pAB" value="1"/>
+      <parameter metaid="xi_i_Rp_cAMPS_pAB"       id="xi_i_Rp_cAMPS_pAB"       value="1"/>
+      <parameter metaid="xi_i_Sp8_Br_cAMPS_AM"    id="xi_i_Sp8_Br_cAMPS_AM"    value="1"/>
       <!-- H4: PDE inhibition -->
       <parameter metaid="xi_pPDE"                 id="xi_pPDE"                 value="0"/>
       <parameter metaid="kf_PDE_Csub"             id="kf_PDE_Csub"             value="0"/>
