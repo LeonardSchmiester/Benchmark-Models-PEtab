@@ -1,0 +1,22 @@
+observableId	observableName	observableFormula	noiseFormula
+obsId_Cer	Cer	observableParameter1_obsId_Cer * Cer	noiseParameter1_obsId_Cer
+obsId_DAG	DAG	observableParameter1_obsId_DAG * DAG	noiseParameter1_obsId_DAG
+obsId_EE	EE	observableParameter1_obsId_EE * EE	noiseParameter1_obsId_EE
+obsId_Ergosterol	Ergosterol	observableParameter1_obsId_Ergosterol * Ergst	noiseParameter1_obsId_Ergosterol
+obsId_IPC	IPC	observableParameter1_obsId_IPC * IPC	noiseParameter1_obsId_IPC
+obsId_LPA	LPA	observableParameter1_obsId_LPA * LPA	noiseParameter1_obsId_LPA
+obsId_LPC	LPC	observableParameter1_obsId_LPC * LPC	noiseParameter1_obsId_LPC
+obsId_LPE	LPE	observableParameter1_obsId_LPE * LPE	noiseParameter1_obsId_LPE
+obsId_LPI	LPI	observableParameter1_obsId_LPI * LPI	noiseParameter1_obsId_LPI
+obsId_LPS	LPS	observableParameter1_obsId_LPS * LPS	noiseParameter1_obsId_LPS
+obsId_MIP2C	MIP2C	observableParameter1_obsId_MIP2C * MIP2C	noiseParameter1_obsId_MIP2C
+obsId_MIPC	MIPC	observableParameter1_obsId_MIPC * MIPC	noiseParameter1_obsId_MIPC
+obsId_PA	PA	observableParameter1_obsId_PA * PA	noiseParameter1_obsId_PA
+obsId_PC	PC	observableParameter1_obsId_PC * PC	noiseParameter1_obsId_PC
+obsId_PE	PE	observableParameter1_obsId_PE * PE	noiseParameter1_obsId_PE
+obsId_PG	PG	observableParameter1_obsId_PG * PG	noiseParameter1_obsId_PG
+obsId_PI	PI	observableParameter1_obsId_PI * PmI	noiseParameter1_obsId_PI
+obsId_PS	PS	observableParameter1_obsId_PS * PS	noiseParameter1_obsId_PS
+obsId_TAG	TAG	observableParameter1_obsId_TAG * TAG	noiseParameter1_obsId_TAG
+obsId_FA	FA	observableParameter1_obsId_FA * FA	noiseParameter1_obsId_FA
+obsId_FOH	FOH	observableParameter1_obsId_FOH * FOH	noiseParameter1_obsId_FOH
