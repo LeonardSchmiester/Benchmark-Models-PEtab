@@ -1,0 +1,3 @@
+plotId	PlotTypeData	xValues	xOffset	xLabel	yValues	yLabel	datasetId	legendEntry	Color
+Fig4b	MeanAndSD	time	3	Time [Days]	tumor_num	Tumor cells [#]	control	control	red
+Fig4b	MeanAndSD	time	3	Time [Days]	tumor_num	Tumor cells [#]	virus	vvDD	blue

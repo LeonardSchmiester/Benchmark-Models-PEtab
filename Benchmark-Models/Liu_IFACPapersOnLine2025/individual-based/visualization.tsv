@@ -1,0 +1,5 @@
+plotId	PlotTypeData	xValues	xOffset	xLabel	yValues	yLabel	datasetId	legendEntry
+Fig6	MeanAndSD	time	3	Time [Days]	tumor_num	Tumor cells [#]	control_6	control 6
+Fig6	MeanAndSD	time	3	Time [Days]	tumor_num	Tumor cells [#]	virus_1	vvDD 1
+Fig6	MeanAndSD	time	3	Time [Days]	tumor_num	Tumor cells [#]	control_7	control 7
+Fig6	MeanAndSD	time	3	Time [Days]	tumor_num	Tumor cells [#]	virus_2	vvDD 2
